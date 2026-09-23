@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://67425w.cn/sitemap.xml
